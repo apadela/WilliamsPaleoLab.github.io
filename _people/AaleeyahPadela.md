@@ -4,6 +4,6 @@ role: "Undergraduate"
 email: "apadela@wisc.edu"
 photo: "AaleeyahPadela.jpeg"
 linkedin: "https://www.linkedin.com/in/aaleeyah-padela-9665a0335/"
-biography: "I'm a junior majoring in Environmental Sciences and Geology & Geophysics, with certificates in Geospatial Data Science, Arabic Language & Culture, and Public Policy. I joined the lab as part of the URS program in September 2025 and worked on LOI for Eric's project. I'm currently working on a Hilldale project for my senior honours thesis focusing on a North American synthesis of fire regime variability in response to the 8.2 ka event. My main research interest is paleoclimatology with a focus on future climate modelling!"
+biography: "I'm a third-year undergraduate majoring in Environmental Sciences and Geology & Geophysics, with certificates in Geospatial Data Science, Arabic Language & Culture, and Public Policy. I joined the lab as part of the URS program in September 2025 and worked on LOI for Eric's project. I'm currently working on a Hilldale research project for my senior honours thesis focusing on fire dynamics surrounding episodes of rapid climate change; in particular, the 8.2 ka event. My main research interests are in paleoclimatology and volcanology, and I am also passionate about climate education!"
 seniority: "2"
 ---
